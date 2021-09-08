@@ -1,0 +1,51 @@
+org/home/demoauthentication/users/model/UserRewards.java
+ org.home.demoauthentication.users.model.UserRewards
+org/home/demoauthentication/challenges/model/ChallengeService.java
+ org.home.demoauthentication.challenges.model.ChallengeService
+org/home/demoauthentication/challenges/endpoints/ChallengesController.java
+ org.home.demoauthentication.challenges.endpoints.ChallengesController
+org/home/demoauthentication/DemoApplication.java
+ org.home.demoauthentication.DemoApplication
+org/home/demoauthentication/exceptions/ValidationException.java
+ org.home.demoauthentication.exceptions.ValidationException
+ org.home.demoauthentication.exceptions.ValidationException$ValidationMessage
+org/home/demoauthentication/rewards/endpoints/RewardDTO.java
+ org.home.demoauthentication.rewards.endpoints.RewardDTO
+org/home/demoauthentication/challenges/endpoints/ChallengeDTO.java
+ org.home.demoauthentication.challenges.endpoints.ChallengeDTO
+org/home/demoauthentication/challenges/model/ChallengeRepository.java
+ org.home.demoauthentication.challenges.model.ChallengeRepository
+org/home/demoauthentication/rewards/model/Reward.java
+ org.home.demoauthentication.rewards.model.Reward
+org/home/demoauthentication/security/HomeController.java
+ org.home.demoauthentication.security.HomeController
+org/home/demoauthentication/users/model/User.java
+ org.home.demoauthentication.users.model.User
+org/home/demoauthentication/exceptions/ExceptionController.java
+ org.home.demoauthentication.exceptions.ExceptionController
+org/home/demoauthentication/rewards/repository/RewardsRepo.java
+ org.home.demoauthentication.rewards.repository.RewardsRepo
+org/home/demoauthentication/rewards/endpoints/RewardsController.java
+ org.home.demoauthentication.rewards.endpoints.RewardsController
+org/home/demoauthentication/security/SecurityConfig.java
+ org.home.demoauthentication.security.SecurityConfig
+org/home/demoauthentication/ValidateInput.java
+ org.home.demoauthentication.ValidateInput
+org/home/demoauthentication/challenges/repository/ChallengesRepo.java
+ org.home.demoauthentication.challenges.repository.ChallengesRepo
+org/home/demoauthentication/challenges/model/Challenge.java
+ org.home.demoauthentication.challenges.model.Challenge
+org/home/demoauthentication/rewards/model/RewardRepository.java
+ org.home.demoauthentication.rewards.model.RewardRepository
+org/home/demoauthentication/users/model/UserChallenges.java
+ org.home.demoauthentication.users.model.UserChallenges
+org/home/demoauthentication/rewards/model/RewardService.java
+ org.home.demoauthentication.rewards.model.RewardService
+org/home/demoauthentication/users/endpoints/UsersController.java
+ org.home.demoauthentication.users.endpoints.UsersController
+org/home/demoauthentication/users/model/UserChallengesService.java
+ org.home.demoauthentication.users.model.UserChallengesService
+org/home/demoauthentication/users/repository/UserChallengesRepo.java
+ org.home.demoauthentication.users.repository.UserChallengesRepo
+org/home/demoauthentication/users/model/UserChallengesRepository.java
+ org.home.demoauthentication.users.model.UserChallengesRepository
